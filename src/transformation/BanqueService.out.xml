@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8"></META>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>Date de cration</th>
+            </tr>
+        </table>
+        <p>Total des soldes : 0</p>
+        <h1>get comptes2000</h1>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>Date de cration</th>
+            </tr>
+        </table>
+        <p>Total des soldes Filtrs : 0</p>
+    </body>
+</html>
